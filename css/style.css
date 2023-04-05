@@ -224,6 +224,11 @@ header {
 
 /* navbar */
 
+.home .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .landing-text {
   /* perfect center */
   position: absolute;

@@ -253,17 +253,7 @@ header {
 .landing-text h6 {
   font-family: "Open Sans", "sans-serif";
   font-size: 3rem;
-  font-weight: 300;
-  /* margin: 5px; */
-  margin-bottom: 2rem;
-
-  
-
-}
-.landing-text p {
-  font-family: "Open Sans", "sans-serif";
-  font-size: 1.5rem;
-  font-weight: 300;
+  font-weight: 400;
   /* margin: 5px; */
   margin-bottom: 2rem;
 

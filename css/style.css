@@ -224,11 +224,7 @@ header {
 
 /* navbar */
 
-.header .container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+
 .landing-text {
   /* perfect center */
   position: absolute;
@@ -244,7 +240,7 @@ header {
 /* name */
 .landing-text h1 {
   font-size: 7rem;
-  font-weight: 450;
+  font-weight: 400;
   font-family: 'Lobster', serif;
   background: linear-gradient(to top,#ff00cc 25%, #333399);
   -webkit-background-clip: text;

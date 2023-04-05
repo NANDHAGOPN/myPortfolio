@@ -239,7 +239,7 @@ header {
 
 /* name */
 .landing-text h1 {
-  font-size: 7rem;
+  font-size: 6rem;
   font-weight: 400;
   font-family: 'Lobster', serif;
   background: linear-gradient(to top,#ff00cc 25%, #333399);
@@ -277,7 +277,7 @@ header {
 
 .landingbtn p {
   font-family: "Open Sans", "sans-serif";
-  font-size: 2rem;
+  font-size: 5rem;
 }
 
 .landingbtn:hover {

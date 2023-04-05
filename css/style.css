@@ -238,7 +238,7 @@ header {
 
 /* name */
 .landing-text h1 {
-  font-size: 8rem;
+  font-size: 7rem;
   font-weight: 450;
   font-family: 'Lobster', serif;
   background: linear-gradient(to top,#ff00cc 25%, #333399);
@@ -261,7 +261,7 @@ header {
 }
 .landing-text p {
   font-family: "Open Sans", "sans-serif";
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 300;
   /* margin: 5px; */
   margin-bottom: 2rem;

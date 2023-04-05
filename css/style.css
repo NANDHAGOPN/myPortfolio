@@ -260,6 +260,16 @@ header {
   
 
 }
+.landing-text p {
+  font-family: "Open Sans", "sans-serif";
+  font-size: 2rem;
+  font-weight: 300;
+  /* margin: 5px; */
+  margin-bottom: 2rem;
+
+  
+
+}
 
 .landingbtn {
   margin: 0 auto;

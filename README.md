@@ -2,4 +2,4 @@
 
 ##It's my personal website
 
-view the site lively on ===>     https://nandhagopn.github.io/web/
+view the site lively on ===>     https://nandhagopn.github.io/myPortfolio/
